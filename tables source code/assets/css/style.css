@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;
+  }
+  input[type=text]{
+    width: 130px;
+    transition: width 0.4s ease-in-out;
+  }
+  input[type=text]:focus {
+    width: 100%;
+  }
+  .mytable {
+    border:1px solid #efefef;
+    background-color: #fff;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+  }
+  .mytable caption {
+    padding: 20px;
+    font-size: 22px;
+  }
+  .mytable td, .mytable th {
+    border: 1px solid #aaa;
+    padding: 10px 8px;
+  }
+  .mytable tbody td {
+    font-size: 16px;
+  }
+  .mytable tr:nth-child(even){
+    background-color: #efefef;
+  }
+  .mytable thead {
+    background-color: #1c6ea4;
+    border: 2px solid #444;
+    background: linear-gradient(to bottom, #5e31dc 0%, #327cad 66%, #1C6EA4 100%);
+  }
+  .mytable thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #fff;
+    border-left:1px solid #dae4f5
+  }
+  .mytable thead th:first-child {
+    border-left: none;
+  }
+  .mytable tfoot {
+    background: #dae4da;
+    border-top: 1px solid 444;
+  }
+  .mytable tfoot .links {
+    text-align: right;
+    margin-right: 50px;
+  }
+  .mytable tfoot .links a {
+    display: inline-block;
+    background: #1c6ea4;
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 5px;
+    text-decoration: none;
+  } 
