@@ -1,5 +1,5 @@
 
-<section class="main-tip">
+<section class="main-tip" id="card">
     <div class="big border-radius5px">
         <a>
             <div class="text-container">
