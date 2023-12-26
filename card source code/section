@@ -1,5 +1,5 @@
 
-<section class="main-tip" id="card">
+<div class="main-tip" id="card">
     <div class="big border-radius5px">
         <a>
             <div class="text-container">
@@ -13,4 +13,4 @@
             <img src="assets/images/me.png" alt="yoga image">
         </a>
     </div>
-</section>
+</div>
