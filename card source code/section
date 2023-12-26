@@ -1,0 +1,16 @@
+
+<section class="main-tip">
+    <div class="big border-radius5px">
+        <a>
+            <div class="text-container">
+                <h4>
+                    DevTips
+                </h4>
+                <p>
+                    Impossibility is nonsense because I go to any extent to make great things happen.
+                </p>
+            </div>
+            <img src="assets/images/me.png" alt="yoga image">
+        </a>
+    </div>
+</section>
